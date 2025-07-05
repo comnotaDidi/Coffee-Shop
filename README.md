@@ -9,7 +9,9 @@ A responsive and modern coffee shop website with smooth animations and clean nav
 - JavaScript  
 ## 📸 Screenshot
 
+![Screenshot](screenshots/10.jpg)
 ![Screenshot](screenshots/11.jpg)
+![Screenshot](screenshots/12.jpg)
 ## 🔧 Features
 
 - Smooth navigation menu animation  
