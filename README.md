@@ -1,4 +1,15 @@
-# Responsive Coffee Shop Website Design
-### This design is inspired by the work of [Mr. Web Designer](https://www.youtube.com/@MrWebDesignerAnas). Click [here](https://youtu.be/52sKmRsk7xU) to watch the video.
+# ☕ Coffee Shop Website
 
-![preview img](/preview.png)
+A responsive and modern coffee shop website with smooth animations and clean navigation.
+
+## 🚀 Technologies
+
+- HTML5  
+- CSS3  
+- JavaScript  
+# image (./screenshots/11.jpg)
+## 🔧 Features
+
+- Smooth navigation menu animation  
+- Fully responsive layout  
+- Easy to customize
